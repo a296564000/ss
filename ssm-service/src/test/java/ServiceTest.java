@@ -9,5 +9,6 @@ public class ServiceTest {
         Items items = new Items();
         items.setName("测试测试");
         itemsService.save(items);
+        System.out.println("111");
     }
 }
