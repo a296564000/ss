@@ -11,5 +11,6 @@ public class ServiceTest {
         itemsService.save(items);
         System.out.println("111");
         System.out.println("2222");
+        int 1=0;
     }
 }
